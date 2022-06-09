@@ -1,1 +1,1 @@
-# multimeta-DatNen
+# This is a project served for BDSG.
