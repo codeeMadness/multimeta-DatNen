@@ -1,4 +1,4 @@
-import { VirtualEnvironment } from 'https://multimeta.netlify.app/stm-kit/VirtualEnvironment.js';
+import { VirtualEnvironment } from 'https://codeemadness.github.io/stm-std-kit/stm-kit/VirtualEnvironment.js';
 
 // start by creating a basic virtual environment
 let virtualEnvironment = new VirtualEnvironment();
