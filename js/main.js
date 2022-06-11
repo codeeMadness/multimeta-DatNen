@@ -1,4 +1,4 @@
-import { VirtualEnvironment } from 'https://codeemadness.github.io/stm-std-kit/stm-kit/VirtualEnvironment.js';
+import { VirtualEnvironment } from 'https://codeemadness.github.io/spacetime-standard-kit/js/VirtualEnvironment.js';
 
 // start by creating a basic virtual environment
 let virtualEnvironment = new VirtualEnvironment();
