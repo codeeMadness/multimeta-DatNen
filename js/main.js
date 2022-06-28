@@ -1,8 +1,13 @@
-import { VirtualEnvironment } from 'https://codeemadness.github.io/spacetime-standard-kit/js/VirtualEnvironment.js';
+// import { VirtualEnvironment } from 'https://codeemadness.github.io/spacetime-standard-kit/js/VirtualEnvironment.js';
 
 // start by creating a basic virtual environment
-let virtualEnvironment = new VirtualEnvironment();
+// let virtualEnvironment = new VirtualEnvironment();
 
+import { spacetime } from "../lib/core.js";
+
+// start by creating a basic virtual environment
+
+let virtualEnvironment = new spacetime.VirtualEnvironment();
 // then fill your world with the stuff you want
 init();
 function init() {
